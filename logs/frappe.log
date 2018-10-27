@@ -1,0 +1,813 @@
+[DEBUG] 2018-10-27 04:22:22,578 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:23:22,663 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:24:22,763 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:25:22,847 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:26:22,931 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:27:23,016 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:28:23,115 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:29:23,200 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:30:23,284 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:31:23,368 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:32:23,467 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:33:23,552 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:34:23,636 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:35:23,718 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:36:23,819 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:37:23,905 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:38:23,989 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:39:24,073 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:40:24,173 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:41:24,259 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:42:24,341 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:43:24,424 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:44:24,522 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:45:24,604 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:46:24,686 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:47:24,770 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:48:24,869 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:49:24,952 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:50:25,035 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:51:25,120 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:52:25,220 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:53:25,304 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:54:25,387 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:55:25,472 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:56:25,568 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:57:25,651 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:58:25,734 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 04:59:25,818 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:00:25,939 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:01:26,024 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:02:26,108 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:03:26,193 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:04:26,294 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:05:26,379 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:06:26,463 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:07:26,548 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:08:26,647 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:09:26,731 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:10:26,815 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:11:26,898 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:12:26,998 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:13:27,083 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:14:27,168 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:15:27,251 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:16:27,348 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:17:27,432 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:18:27,515 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:19:27,598 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:20:27,696 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:21:27,780 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:22:27,865 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:23:27,949 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:24:28,048 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:25:28,130 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:26:28,214 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:27:28,297 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:28:28,397 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:29:28,482 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:30:28,566 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:31:28,651 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:32:28,750 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:33:28,836 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:34:28,917 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:35:29,000 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:36:29,100 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:37:29,183 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:38:29,265 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:39:29,345 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:40:29,442 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:41:29,525 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:42:29,609 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:43:29,693 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:44:29,793 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:45:29,876 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:46:29,961 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:47:30,045 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:48:30,144 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:49:30,228 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:50:30,311 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:51:30,393 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:52:30,490 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:53:30,571 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:54:30,655 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:55:30,738 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:56:30,836 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:57:30,917 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:58:31,000 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 05:59:31,083 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:00:31,204 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:01:31,288 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:02:31,369 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:03:31,452 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:04:31,549 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:05:31,632 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:06:31,716 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:07:31,799 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:08:31,898 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:09:31,979 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:10:32,064 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:11:32,147 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:12:32,245 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:13:32,328 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:14:32,409 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:15:32,492 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:16:32,589 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:17:32,673 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:18:32,756 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:19:32,840 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:20:32,939 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:21:33,023 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:22:33,106 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:23:33,188 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:24:33,285 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:25:33,367 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:26:33,450 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:27:33,531 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:28:33,630 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:29:33,714 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:30:33,797 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:31:33,881 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:32:33,980 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:33:34,065 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:34:34,148 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:35:34,235 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:36:34,334 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:37:34,418 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:38:34,501 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:39:34,586 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:40:34,684 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:41:34,768 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:42:34,852 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:43:34,935 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:44:35,034 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:45:35,119 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:46:35,202 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:47:35,284 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:48:35,383 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:49:35,467 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:50:35,551 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:51:35,633 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:52:35,730 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:53:35,813 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:54:35,896 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:55:35,979 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:56:36,080 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:57:36,164 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:58:36,247 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 06:59:36,330 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:00:36,451 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:01:36,532 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:02:36,614 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:03:36,699 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:04:36,800 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:05:36,884 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:06:36,966 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:07:37,050 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:08:37,147 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:09:37,229 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:10:37,313 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:11:37,396 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:12:37,494 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:13:37,577 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:14:37,660 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:15:37,743 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:16:37,842 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:17:37,925 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:18:38,008 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:19:38,091 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:20:38,191 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:21:38,274 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:22:38,356 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:23:38,440 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:24:38,537 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:25:38,621 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:26:38,705 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:27:38,787 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:28:38,885 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:29:38,968 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:30:39,052 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:31:39,137 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:32:39,235 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:33:39,318 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:34:39,399 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:35:39,483 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:36:39,582 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:37:39,664 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:38:39,747 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:39:39,831 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:40:39,930 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:41:40,014 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:42:40,097 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:43:40,181 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:44:40,279 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:45:40,361 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:46:40,444 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:47:40,527 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:48:40,626 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:49:40,710 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:50:40,793 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:51:40,877 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:52:40,976 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:53:41,060 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:54:41,143 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:55:41,225 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:56:41,323 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:57:41,405 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:58:41,488 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 07:59:41,571 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:00:41,693 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:01:41,777 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:02:41,856 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:03:41,939 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:04:42,035 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:05:42,118 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:06:42,201 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:07:42,284 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:08:42,382 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:09:42,463 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:10:42,547 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:11:42,630 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:12:42,728 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:13:42,811 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:14:42,895 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:15:42,978 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:16:43,075 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:17:43,157 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:18:43,241 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:19:43,324 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:20:43,423 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:21:43,507 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:22:43,590 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:23:43,674 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:24:43,772 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:25:43,856 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:26:43,940 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:27:44,023 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:28:44,121 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:29:44,203 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:30:44,287 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:31:44,368 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:32:44,467 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:33:44,552 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:34:44,635 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:35:44,718 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:36:44,814 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:37:44,897 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:38:44,982 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:39:45,064 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:40:45,162 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:41:45,247 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:42:45,328 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:43:45,411 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:44:45,509 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:45:45,591 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:46:45,673 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:47:45,755 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:48:45,853 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:49:45,935 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:50:46,018 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:51:46,103 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2018-10-27 08:52:46,201 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local

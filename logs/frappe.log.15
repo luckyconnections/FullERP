@@ -1,0 +1,1826 @@
+[ERROR] 2018-10-23 21:19:29,155 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:20:29,225 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:21:29,293 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:22:29,362 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:23:29,432 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:24:29,499 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:25:29,569 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:26:29,639 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:27:29,709 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:28:29,777 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:29:29,846 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:30:29,916 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:31:29,986 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:32:30,052 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:33:30,122 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:34:30,191 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:35:30,261 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:36:30,329 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:37:30,398 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:38:30,468 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:39:30,537 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:40:30,604 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:41:30,674 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:42:30,744 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:43:30,814 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:44:30,884 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:45:30,954 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:46:31,024 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:47:31,093 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:48:31,162 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:49:31,231 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:50:31,301 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:51:31,371 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:52:31,441 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:53:31,512 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:54:31,582 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:55:31,650 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:56:31,720 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:57:31,790 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:58:31,861 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 21:59:31,931 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:00:32,001 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:01:32,071 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:02:32,141 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:03:32,211 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:04:32,280 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:05:32,350 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:06:32,420 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:07:32,489 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:08:32,556 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:09:32,626 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:10:32,696 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:11:32,766 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:12:32,836 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:13:32,905 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:14:32,973 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:15:33,043 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:16:33,113 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:17:33,183 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:18:33,253 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:19:33,324 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:20:33,393 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:21:33,463 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:22:33,532 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:23:33,602 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:24:33,672 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:25:33,739 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:26:33,809 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:27:33,879 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:28:33,949 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:29:34,015 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:30:34,084 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:31:34,151 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:32:34,221 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:33:34,289 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:34:34,359 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:35:34,425 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:36:34,495 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:37:34,566 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:38:34,636 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:39:34,706 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:40:34,777 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
+[ERROR] 2018-10-23 22:41:34,847 | /home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Exception in Enqueue Events for Site site1.local
+Traceback (most recent call last):
+  File "/home/vini/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 80, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 189, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/home/vini/frappe-bench/apps/frappe/frappe/__init__.py", line 896, in get_file_json
+    return json.load(f)
+  File "/usr/lib64/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 16 column 1 (char 362)
+
